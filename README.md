@@ -1,5 +1,6 @@
 # Hi 👋, I'm Anna
 ### A designer learning to code.
+As a former Product Designer, I'm interested in all things creative. In particular, the space between development and design is where I thrive.
 
 - 🔭 I’m currently working on [cogo]([https://github.com/annaewbank/reciplease](https://github.com/mobcoders/cogo)) - an app which makes group travel hassle-free.
 
